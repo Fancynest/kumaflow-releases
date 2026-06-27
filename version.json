@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 26,
-  "latest_version_name": "v5.0.2",
-"update_message": "🚀 KumaFlow Update Tersedia!\n\nApa yang baru di versi ini?\n- Perbaikan isu data tidak muncul saat proses pemulihan (restore).\n- Optimalisasi antarmuka Kuma Glass untuk pengalaman visual yang lebih halus.\n- Peningkatan stabilitas dan performa sistem database.\n\nPerbarui KumaFlow Anda sekarang untuk pencatatan keuangan yang lebih aman dan optimal!",
-  "apk_url": "https://github.com/Fancynest/kumaflow-releases/releases/download/v1.2.0/KumaFlow-v1.2.0.apk"
+  "versionCode": 26,
+  "versionName": "5.0.2",
+  "apkUrl": "https://github.com/Fancynest/KumaFlow/releases/download/v5.0.2/KumaFlow-Test.apk",
+  "releaseNotes": "• Pengujian fitur auto-update.\n• Peningkatan stabilitas Kuma Glass."
 }
