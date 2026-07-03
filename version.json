@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "6.1.0",
+  "versionCode": 41,
+  "versionName": "6.1.1",
   "apkUrl": "https://github.com/Fancynest/KumaUpdate/releases/download/v6.1.0/KumaFlow_v6.1.0.apk",
-  "releaseNotes": "• Peningkatan stabilitas KumaFlow"
+  "releaseNotes": "• Perubahan metode input keyboard"
 }
