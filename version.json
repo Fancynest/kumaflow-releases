@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "6.3.3",
-  "apkUrl": "https://github.com/Fancynest/KumaUpdate/releases/download/v6.3.3/KumaFlow_v6.3.3.apk",
-  "releaseNotes": "KumaFlow v6.3.3\n\n• Optimalisasi UI Light Theme & Glassmorphism.\n• Desain ulang antarmuka pemindai QR.\n• Peningkatan UX navigasi utama.\n• Pembaruan dukungan sistem dwibahasa (Bilingual)."
+  "versionCode": 53,
+  "versionName": "6.3.4",
+  "apkUrl": "https://github.com/Fancynest/KumaUpdate/releases/download/v6.3.4/KumaFlow_v6.3.4.apk",
+  "releaseNotes": "KumaFlow v6.3.4\n\n• Optimalisasi Tampilan QRIS"
 }
