@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "6.3.4",
-  "apkUrl": "https://github.com/Fancynest/KumaUpdate/releases/download/v6.3.4/KumaFlow_v6.3.4.apk",
-  "releaseNotes": "KumaFlow v6.3.4\n\n• Optimalisasi Tampilan QRIS"
+  "versionCode": 55,
+  "versionName": "7.1.0",
+  "apkUrl": "https://github.com/Fancynest/KumaUpdate/releases/download/v7.1.0/KumaFlow_v7.1.0.apk",
+  "releaseNotes": "KumaFlow v7.1.0\n\n• AI Receipt Scanner powered by Google Gemini and Claude\n• Redesigned flush bottom navigation with center action button\n• Organic squircle tab indicators and subtle tilt motion"
 }
